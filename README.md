@@ -1,7 +1,6 @@
 # MIST-4610---Group-Project-2
 
 **Team Members**
-#
 Ryan Dyals [@RyanDyals](MIST-4610---Group-Project-2)
 Branon Yum [@BrandonYum](https://github.com/BRANDONYUM/MIST-4610-Group-7-Project-2)
 Stuti Bhat[@StutiBhat2](https://github.com/stutibhat2/MIST-4610-Group-7-Project-2)
