@@ -5,7 +5,7 @@ Ryan Dyals [@RyanDyals](MIST-4610---Group-Project-2)
 Branon Yum [@BrandonYum](https://github.com/BRANDONYUM/MIST-4610-Group-7-Project-2)
 Stuti Bhat[@StutiBhat2](https://github.com/stutibhat2/MIST-4610-Group-7-Project-2)
 Matthew Vega[@mtv38865](https://github.com/mtv38865/MIST-4610-Group-7-Project-2.git)
-Eujin Kang[@[@EujinKang](https://github.com/eujinkang/MIST-4610-Group-7-Project-2 )
+Eujin Kang[@EujinKang](https://github.com/eujinkang/MIST-4610-Group-7-Project-2 )
 
 **Link To Data Set**
 (https://hub.arcgis.com/datasets/6b52792b667d4056bddd358cc25fbfc6_0/explore?location=60.256230%2C15.403105%2C5.52)
