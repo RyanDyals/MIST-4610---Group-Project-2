@@ -28,3 +28,18 @@ The State of Washington is known for its heavy rain and snow. The State would li
 **Manipulations to The Data**
  There were some data points in the set that were not descriptive and had a lot of null values such as no weather conditions information or missing the number of fatalities in the accident. These points were removed so it would be easier to see the relevant data in the visualization. Filters were applied to the data in Tableau to create the visualizations, filtering by lighting conditions in Question 1. Question 2 also required filtering by state and weather conditions. Some data types were changed to accommodate for geospatial visualizations as well. 
 
+
+
+
+**Visualization For Question 1**
+<img width="1133" alt="Screenshot 2024-04-28 at 7 55 45 PM" src="https://github.com/RyanDyals/MIST-4610---Group-Project-2/assets/134531824/54d3257d-dd33-435f-9a0b-d533b2cbac36">
+
+**Visualizations For Question 2**
+
+<img width="1131" alt="Screenshot 2024-04-28 at 7 59 02 PM" src="https://github.com/RyanDyals/MIST-4610---Group-Project-2/assets/134531824/ee629fc2-57af-4575-932a-d184231f32e5">
+
+<img width="1135" alt="Screenshot 2024-04-28 at 7 59 51 PM" src="https://github.com/RyanDyals/MIST-4610---Group-Project-2/assets/134531824/413f80a7-ab11-4b2a-a50f-4d40586ece84">
+
+
+
+
