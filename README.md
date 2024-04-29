@@ -1,6 +1,6 @@
 # MIST-4610---Group-Project-2
 
-##**Team Members**
+**Team Members**
 Ryan Dyals
 Branon Yum
 Stuti Bhat
@@ -8,23 +8,23 @@ Matthew Vega
 Eujin Kang
 
 
-##**Description of Data Set**
+**Description of Data Set**
 This data set was obtained from the United States Department of Transportation or DOT. The title of this data set is 2021 Fatal Motor Vehicle Accidents. This data set contains over 39,000 instances of fatal accidents in 2021 in every state, recording the following information: geospatial data(state and coordinates), number of fatalities, weather conditions, type of roads, cause of accident, damage done, date, time, and hospital arrival information.
 
 
-#**Question 1**
+**Question 1**
 “Are there states that have more fatalities due to poor lighting conditions than others?”
 
-*Why is this important?
+**Why is this important?**
 From the perspective of the Department of Transportation, federal grants are given out every year to states in need of funding for improved roadways, light conditions, traffic lights, and truck check-in/weighing stations. Knowing which states are suffering from the most fatalities due to poor lighting is important to decide which states are in the most need for federal grant funds regarding lighting.
 
 
-#**Question 2**
+**Question 2**
 “What weather conditions have the most deaths in Washington? What months do they occur and where do they occur in the State?”
 
 The State of Washington is known for its heavy rain and snow. The State would like to track which months of the year have the most deaths due to different weather conditions. Specifically, if there are more deaths due to adverse weather conditions in these months to know if they need to put out more signage when these conditions occur and what time of the year these deaths are highest. This is significant as during these months the state can put up more warning signs for residents, prep the road (add salt for snow), and have more EMS staff on standby during these time periods. More importantly, the state can also see where they occur within the state to target these areas.
 
 
-#**Manipulations to The Data**
+**Manipulations to The Data**
  There were some data points in the set that were not descriptive and had a lot of null values such as no weather conditions information or missing the number of fatalities in the accident. These points were removed so it would be easier to see the relevant data in the visualization. Filters were applied to the data in Tableau to create the visualizations, filtering by lighting conditions in Question 1. Question 2 also required filtering by state and weather conditions. Some data types were changed to accommodate for geospatial visualizations as well. 
 
