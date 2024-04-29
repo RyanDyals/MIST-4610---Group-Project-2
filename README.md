@@ -1,11 +1,14 @@
 # MIST-4610---Group-Project-2
 
 **Team Members**
-Ryan Dyals
-Branon Yum
-Stuti Bhat
-Matthew Vega
-Eujin Kang
+Ryan Dyals [@RyanDyals]
+Branon Yum [@BrandonYum](https://github.com/BRANDONYUM/MIST-4610-Group-7-Project-2)
+Stuti Bhat[@StutiBhat2](https://github.com/stutibhat2/MIST-4610-Group-7-Project-2)
+Matthew Vega[@mtv38865](https://github.com/mtv38865/MIST-4610-Group-7-Project-2.git)
+Eujin Kang[@[@EujinKang](https://github.com/eujinkang/MIST-4610-Group-7-Project-2 )
+
+**Link To Data Set**
+(https://hub.arcgis.com/datasets/6b52792b667d4056bddd358cc25fbfc6_0/explore?location=60.256230%2C15.403105%2C5.52)
 
 
 **Description of Data Set**
@@ -39,6 +42,15 @@ The State of Washington is known for its heavy rain and snow. The State would li
 <img width="1131" alt="Screenshot 2024-04-28 at 7 59 02 PM" src="https://github.com/RyanDyals/MIST-4610---Group-Project-2/assets/134531824/ee629fc2-57af-4575-932a-d184231f32e5">
 
 <img width="1135" alt="Screenshot 2024-04-28 at 7 59 51 PM" src="https://github.com/RyanDyals/MIST-4610---Group-Project-2/assets/134531824/413f80a7-ab11-4b2a-a50f-4d40586ece84">
+
+**Analysis and Results**
+After analyzing the map visualization to answer question number one, it is evident that the states with the top three fatalities due to dark conditions with no lighting are Texas, California, and Florida in descending order. These states have larger populations, but also large areas where lighting is not provided in a lot of fatal accidents. This shows the DOT that these states should be audited to see if they are in need of federal grant money to improve lighting conditions and hopefully result in less poor lighting related deaths.
+
+Regarding question number two, contrary to what was expected the State of Washington actually had significantly more fatal car accidents in clear conditions in comparison to adverse weather conditions in every month except months during the winter. This finding implies that inclement weather related deaths should be focused on more in the winter months and during the rest of the year they are not as much of a concern. The State of Washington economically speaking, should be more concerned with preparing for accidents in the winter time than heavy rains in the summer.
+
+Further, the map showing accident location by weather type shows that accidents typically are aggregated around certain cities. The state can take this data and analyze these cities further to see if there are unsafe roads, improper traffic signage, or lack of preparation of roads for the weather in order to reduce fatal accidents in Washington.
+
+
 
 
 
