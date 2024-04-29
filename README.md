@@ -1,7 +1,7 @@
 # MIST-4610---Group-Project-2
 
 **Team Members:**
-Ryan Dyals [@RyanDyals](https://github.com/RyanDyals/MIST-4610---Group-Project-2/tree/main)](https://github.com/RyanDyals/MIST-4610---Group-Project-2)
+Ryan Dyals [@RyanDyals](https://github.com/RyanDyals/MIST-4610---Group-Project-2)
 Branon Yum [@BrandonYum](https://github.com/BRANDONYUM/MIST-4610-Group-7-Project-2)
 Stuti Bhat[@StutiBhat2](https://github.com/stutibhat2/MIST-4610-Group-7-Project-2)
 Matthew Vega[@mtv38865](https://github.com/mtv38865/MIST-4610-Group-7-Project-2.git)
