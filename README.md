@@ -57,6 +57,8 @@ Regarding question number two, contrary to what was expected the State of Washin
 Further, the map showing accident location by weather type shows that accidents typically are aggregated around certain cities. The state can take this data and analyze these cities further to see if there are unsafe roads, improper traffic signage, or lack of preparation of roads for the weather in order to reduce fatal accidents in Washington.
 
 
+**WorkBook Package is in Github repository**
+
 
 
 
