@@ -9,7 +9,7 @@ Eujin Kang
 
 
 **Description of Data Set**
-This data set was obtained from the United States Department of Transportation or DOT. The title of this data set is 2021 Fatal Motor Vehicle Accidents. This data set contains over 39,000 instances of fatal accidents in 2021 in every state, recording the following information: geospatial data(state and coordinates), number of fatalities, weather conditions, type of roads, cause of accident, damage done, date, time, and hospital arrival information.
+This data set was obtained from the United States Department of Transportation or DOT. The title of this data set is 2021 Fatal Motor Vehicle Accidents. This data set contains over 39,000 instances of fatal accidents in 2021 in every state, recording the following information: geospatial data(state and coordinates), number of fatalities, lighting conditions, weather conditions, type of roads, cause of accident, damage done, date, time, and hospital arrival information.
 
 
 **Question 1**
